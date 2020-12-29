@@ -1,19 +1,6 @@
-<svg width="2508" height="2508" viewBox="0 0 2508 2508" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d)">
-<rect x="4" width="2500" height="2500" rx="500" fill="#0C0C0C"/>
-</g>
-<rect x="632" y="751.338" width="1298" height="363" rx="181.5" fill="#E5E5E5"/>
-<rect width="368.723" height="1972.12" rx="184.361" transform="matrix(-0.90723 -0.420635 -0.434851 0.900502 2199 439.436)" fill="#C4C4C4"/>
-<rect width="368.723" height="1972.12" rx="184.361" transform="matrix(0.906804 -0.421552 0.433918 0.900952 308 439.436)" fill="white"/>
-<defs>
-<filter id="filter0_d" x="0" y="0" width="2508" height="2508" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-</filter>
-</defs>
+<svg width="2500" height="2500" viewBox="0 0 2500 2500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2500" height="2500" rx="500" fill="#0C0C0C"/>
+<rect x="628" y="751.338" width="1298" height="363" rx="181.5" fill="#E5E5E5"/>
+<rect width="368.723" height="1972.12" rx="184.361" transform="matrix(-0.90723 -0.420635 -0.434851 0.900502 2195 439.436)" fill="#C4C4C4"/>
+<rect width="368.723" height="1972.12" rx="184.361" transform="matrix(0.906804 -0.421552 0.433918 0.900952 304 439.436)" fill="white"/>
 </svg>
