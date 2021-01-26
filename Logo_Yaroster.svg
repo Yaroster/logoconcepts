@@ -1,13 +1,12 @@
 <svg width="2508" height="2508" viewBox="0 0 2508 2508" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d)">
-<rect x="4" width="2500" height="2500" rx="500" fill="black"/>
-<rect x="4.5" y="0.5" width="2499" height="2499" rx="499.5" stroke="black"/>
+<path d="M2004 0H504C227.858 0 4 223.858 4 500V2000C4 2276.14 227.858 2500 504 2500H2004C2280.14 2500 2504 2276.14 2504 2000V500C2504 223.858 2280.14 0 2004 0Z" fill="black"/>
+<path d="M2004 0.5H504C228.134 0.5 4.5 224.134 4.5 500V2000C4.5 2275.87 228.134 2499.5 504 2499.5H2004C2279.87 2499.5 2503.5 2275.87 2503.5 2000V500C2503.5 224.134 2279.87 0.5 2004 0.5Z" stroke="black"/>
 </g>
-<rect x="446" y="2125" width="323" height="1142" rx="161.5" transform="rotate(-90 446 2125)" fill="#E9E9E9"/>
-<rect x="641" y="1367" width="124" height="758" fill="white"/>
-<rect width="323" height="1750" rx="161.5" transform="matrix(1 0 0 -1 442 2125)" fill="white"/>
-<rect x="2062" y="375" width="323" height="1142" rx="161.5" transform="rotate(90 2062 375)" fill="#E9E9E9"/>
-<rect width="323" height="1750" rx="161.5" transform="matrix(-1 0 0 1 2066 375)" fill="white"/>
+<rect x="474" y="2125" width="323" height="1114" rx="161.5" transform="rotate(-90 474 2125)" fill="#E9E9E9"/>
+<path d="M442 1925C442 2035.46 531.543 2125 642 2125H765V536.5C765 447.306 692.694 375 603.5 375V375C514.306 375 442 447.306 442 536.5V1925Z" fill="white"/>
+<rect x="2009" y="375" width="323" height="1089" rx="161.5" transform="rotate(90 2009 375)" fill="#E9E9E9"/>
+<path d="M2066 575C2066 464.543 1976.46 375 1866 375H1743V1963.5C1743 2052.69 1815.31 2125 1904.5 2125V2125C1993.69 2125 2066 2052.69 2066 1963.5V575Z" fill="white"/>
 <rect width="120.521" height="628.023" rx="60.2604" transform="matrix(-0.913638 0.406528 -0.449488 -0.893287 1453.29 1506)" fill="white" fill-opacity="0.7"/>
 <rect x="1587" y="1192.4" width="115.188" height="660" rx="57.5941" transform="rotate(90 1587 1192.4)" fill="#E5E5E5"/>
 <rect width="120.521" height="628.023" rx="60.2604" transform="matrix(0.913638 0.406528 0.449488 -0.893287 1060.89 1506)" fill="white"/>
