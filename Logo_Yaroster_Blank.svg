@@ -1,9 +1,10 @@
-<svg width="1624" height="1750" viewBox="0 0 1624 1750" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="32" y="1750" width="323" height="1114" rx="161.5" transform="rotate(-90 32 1750)" fill="#E9E9E9"/>
-<path d="M0 1550C0 1660.46 89.543 1750 200 1750H323V161.5C323 72.3061 250.694 0.000104308 161.5 0.000104308C72.306 0.000104308 0 72.3061 0 161.5V1550Z" fill="white"/>
-<rect x="1567" width="323" height="1089" rx="161.5" transform="rotate(90 1567 0)" fill="#E9E9E9"/>
-<path d="M1624 200C1624 89.543 1534.46 0 1424 0H1301V1588.5C1301 1677.69 1373.31 1750 1462.5 1750C1551.69 1750 1624 1677.69 1624 1588.5V200Z" fill="white"/>
-<rect width="120.521" height="628.023" rx="60.2604" transform="matrix(-0.913638 0.406528 -0.449488 -0.893287 1011.29 1131)" fill="white" fill-opacity="0.7"/>
-<rect x="1145" y="817.405" width="115.188" height="660" rx="57.5941" transform="rotate(90 1145 817.405)" fill="#E5E5E5"/>
-<rect width="120.521" height="628.023" rx="60.2604" transform="matrix(0.913638 0.406528 0.449488 -0.893287 618.886 1131)" fill="white"/>
+<svg width="2500" height="2500" viewBox="0 0 2500 2500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2000 0H500C223.858 0 0 223.858 0 500V2000C0 2276.14 223.858 2500 500 2500H2000C2276.14 2500 2500 2276.14 2500 2000V500C2500 223.858 2276.14 0 2000 0Z" fill="#0C0C0C"/>
+<rect x="470" y="2125" width="323" height="1114" rx="161.5" transform="rotate(-90 470 2125)" fill="#E9E9E9"/>
+<path d="M438 1925C438 2035.46 527.543 2125 638 2125H761V536.5C761 447.306 688.694 375 599.5 375C510.306 375 438 447.306 438 536.5V1925Z" fill="white"/>
+<rect x="2005" y="375" width="323" height="1089" rx="161.5" transform="rotate(90 2005 375)" fill="#E9E9E9"/>
+<path d="M2062 575C2062 464.543 1972.46 375 1862 375H1739V1963.5C1739 2052.69 1811.31 2125 1900.5 2125C1989.69 2125 2062 2052.69 2062 1963.5V575Z" fill="white"/>
+<rect width="120.521" height="628.023" rx="60.2604" transform="matrix(-0.913638 0.406528 -0.449488 -0.893287 1449.29 1506)" fill="white" fill-opacity="0.7"/>
+<rect x="1583" y="1192.4" width="115.188" height="660" rx="57.5941" transform="rotate(90 1583 1192.4)" fill="#E5E5E5"/>
+<rect width="120.521" height="628.023" rx="60.2604" transform="matrix(0.913638 0.406528 0.449488 -0.893287 1056.89 1506)" fill="white"/>
 </svg>
