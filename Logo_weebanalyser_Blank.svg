@@ -1,6 +1,5 @@
-<svg width="2500" height="2500" viewBox="0 0 2500 2500" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="2500" height="2500" rx="500" fill="#0C0C0C"/>
-<rect x="628" y="751.338" width="1298" height="363" rx="181.5" fill="#E5E5E5"/>
-<rect width="368.723" height="1972.12" rx="184.361" transform="matrix(-0.90723 -0.420635 -0.434851 0.900502 2195 439.436)" fill="#C4C4C4"/>
-<rect width="368.723" height="1972.12" rx="184.361" transform="matrix(0.906804 -0.421552 0.433918 0.900952 304 439.436)" fill="white"/>
+<svg width="2500" height="2555" viewBox="0 0 2500 2555" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="428.345" y="617.845" width="1716.02" height="479.905" rx="239.952" fill="#E5E5E5"/>
+<rect width="487.471" height="2607.25" rx="243.735" transform="matrix(-0.90723 -0.420635 -0.434851 0.900502 2500 205.494)" fill="#C4C4C4"/>
+<rect width="487.471" height="2607.25" rx="243.735" transform="matrix(0.906804 -0.421552 0.433918 0.900952 0 205.494)" fill="white"/>
 </svg>
